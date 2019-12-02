@@ -1,0 +1,1208 @@
+﻿1
+00:00:00,000 --> 00:00:00,000
+
+
+2
+00:00:00,000 --> 00:00:00,000
+
+
+3
+00:00:03,620 --> 00:00:05,020
+O que foi?
+
+4
+00:00:05,540 --> 00:00:07,580
+Tome cuidado, tem alguma coisa lá fora.
+
+5
+00:00:08,560 --> 00:00:09,170
+Quem está aí?!
+
+6
+00:00:16,010 --> 00:00:16,550
+Tome isso!
+
+7
+00:00:19,260 --> 00:00:24,310
+<i>Seu demônio sujo... eu irei apagar a sua existência deste mundo!</i>
+
+8
+00:00:29,090 --> 00:00:30,300
+Izumo!
+
+9
+00:00:30,300 --> 00:00:31,230
+Pare de relaxar!
+
+10
+00:00:34,860 --> 00:00:36,110
+Uke! Mike!
+
+11
+00:02:34,780 --> 00:02:35,810
+Bom dia!
+
+12
+00:02:35,810 --> 00:02:36,400
+Ei!
+
+13
+00:02:36,400 --> 00:02:38,060
+Bom dia!
+
+14
+00:02:42,920 --> 00:02:44,830
+Que bagunça é essa? O que aconteceu aqui?
+
+15
+00:02:44,830 --> 00:02:47,550
+Eu também gostaria de saber.
+
+16
+00:02:47,550 --> 00:02:50,310
+E por que vocês não estão na aula?
+
+17
+00:02:50,310 --> 00:02:51,530
+Você não viu a mensagem?
+
+18
+00:02:55,610 --> 00:03:00,750
+Eu convoquei todos os Exorcistas da região para uma reunião de emergência.
+
+19
+00:03:02,360 --> 00:03:05,130
+Mas nós ainda somos apenas Esquires...
+
+20
+00:03:05,130 --> 00:03:10,290
+A situação é tão grave que nós precisamos de todas as mãos disponíveis.
+
+21
+00:03:10,290 --> 00:03:14,450
+Um demônio conhecido como Gale se infiltrou em nossa Academia.
+
+22
+00:03:14,450 --> 00:03:22,030
+A Academia é protegida pelas poderosas barreiras do Sir Pheles, então demônios mais fortes não podem entrar.
+
+23
+00:03:22,030 --> 00:03:25,560
+Existem duas explicações possíveis.
+
+24
+00:03:26,160 --> 00:03:32,200
+Ou as minhas barreiras têm um ponto fraco, ou alguém aqui de dentro o convidou a entrar.
+
+25
+00:03:32,200 --> 00:03:33,350
+O convidou?
+
+26
+00:03:33,350 --> 00:03:35,190
+Quem e por quê?
+
+27
+00:03:35,190 --> 00:03:37,570
+Eu também gostaria de saber.
+
+28
+00:03:37,820 --> 00:03:42,120
+Eu mandei que os professores procurassem pelo Gale.
+
+29
+00:03:42,120 --> 00:03:46,940
+Eu quero que vocês, Esquires, inspecionem todas as barreiras.
+
+30
+00:03:46,940 --> 00:03:47,500
+Sim, senhor.
+
+31
+00:03:53,010 --> 00:03:55,840
+Você fica aqui e continua o treinamento.
+
+32
+00:03:55,840 --> 00:03:56,840
+Como?!
+
+33
+00:04:02,870 --> 00:04:04,820
+Nada de anormal.
+
+34
+00:04:04,820 --> 00:04:08,630
+Ele disse para olharmos todas as barreiras, mas quantas delas existem?
+
+35
+00:04:10,250 --> 00:04:12,120
+Doze mil.
+
+36
+00:04:12,970 --> 00:04:15,360
+Impossível... eu não posso fazer isso.
+
+37
+00:04:17,530 --> 00:04:23,120
+Estão todos trabalhando nisso, mas eu não vi o Neko ainda...
+
+38
+00:04:23,120 --> 00:04:27,590
+Quando eu acordei, ele já havia saído do dormitório.
+
+39
+00:04:27,590 --> 00:04:30,560
+E ele também não atende o celular.
+
+40
+00:04:30,900 --> 00:04:34,510
+E ele não veio ajudar com o Kurikara.
+
+41
+00:04:34,510 --> 00:04:38,630
+Ele não vai largar a escola de Exorcistas, vai?
+
+42
+00:04:38,630 --> 00:04:40,260
+Até parece!
+
+43
+00:04:40,490 --> 00:04:45,350
+O Satã matou sua família e ele jurou vingá-los.
+
+44
+00:04:46,820 --> 00:04:48,130
+Bon...
+
+45
+00:04:49,470 --> 00:04:52,420
+Ele <i>jamais</i> desistiria.
+
+46
+00:05:06,220 --> 00:05:07,880
+Isso dói...
+
+47
+00:05:08,620 --> 00:05:09,790
+<i>Isso dói?</i>
+
+48
+00:05:10,590 --> 00:05:14,440
+É claro! Eu levei um tiro!
+
+49
+00:05:14,440 --> 00:05:18,260
+<i>Se você me aceitar, armas como essas não serão nada.</i>
+
+50
+00:05:19,890 --> 00:05:22,140
+<i>Por que você me rejeita?</i>
+
+51
+00:05:22,610 --> 00:05:27,680
+<i>Comigo ao seu lado, você não precisaria temer o filho de Satã!</i>
+
+52
+00:05:28,170 --> 00:05:31,110
+<i>Vamos lutar juntos!</i>
+
+53
+00:05:31,110 --> 00:05:33,630
+<i>Vamos matar o filho de Satã!</i>
+
+54
+00:05:33,630 --> 00:05:37,430
+Não! Não é isso o que eu quero!
+
+55
+00:05:37,430 --> 00:05:39,900
+Eu jamais mataria o Okumura...
+
+56
+00:05:39,900 --> 00:05:44,120
+<i>Okumura Rin... por que um cara como ele está na mesma turma que eu?</i>
+
+57
+00:05:46,930 --> 00:05:50,680
+<i>Ele está tentando levar os meus amigos também?</i>
+
+58
+00:05:51,340 --> 00:05:56,840
+<i>Demônio sujo... eu te odeio... eu te odeio... eu te odeio!</i>
+
+59
+00:05:56,840 --> 00:05:58,300
+Não é isso!
+
+60
+00:06:01,630 --> 00:06:05,540
+<i>Reconheça e aceite a escuridão no seu coração.</i>
+
+61
+00:06:05,540 --> 00:06:09,560
+<i>Se assim desejar, eu poderei ajudá-lo a qualquer momento.</i>
+
+62
+00:06:14,330 --> 00:06:16,710
+Onde eu estou?
+
+63
+00:06:18,440 --> 00:06:22,650
+Eu preciso voltar, do contrário eles vão ficar preocupados comigo.
+
+64
+00:06:25,340 --> 00:06:30,980
+<i>A vingança tem um gosto ótimo. Quando a sua alma estiver temporada com o ódio,</i>
+
+65
+00:06:30,980 --> 00:06:33,210
+<i>eu vou aproveitar bastante enquanto a devorar!</i>
+
+66
+00:06:36,950 --> 00:06:40,110
+Até quando eu preciso continuar com isso?
+
+67
+00:06:40,110 --> 00:06:44,510
+Até você poder controlar suas chamas livremente.
+
+68
+00:06:46,680 --> 00:06:50,680
+Você deveria estar aqui sem fazer nada?
+
+69
+00:06:50,680 --> 00:06:54,630
+É claro que eu quero me juntar à caçada pelo Gale.
+
+70
+00:06:54,630 --> 00:06:57,930
+Mas eu fui ordenado a cuidar de você.
+
+71
+00:06:58,430 --> 00:06:59,230
+Então...
+
+72
+00:07:00,160 --> 00:07:02,990
+Vamos caçar os demônios juntos!
+
+73
+00:07:02,990 --> 00:07:07,410
+Você não entende mesmo. Nós não temos tempo!
+
+74
+00:07:07,410 --> 00:07:11,180
+Não ache que você pode ficar-
+
+75
+00:07:13,060 --> 00:07:14,000
+Qual o problema?
+
+76
+00:07:14,620 --> 00:07:19,680
+Nada. Continue a treinar.
+
+77
+00:07:19,980 --> 00:07:21,260
+Sim, senhor.
+
+78
+00:07:23,440 --> 00:07:28,890
+Pro inferno. Praticar é o melhor treinamento.
+
+79
+00:07:33,100 --> 00:07:37,230
+Não é o que você está pensando Yukio! Eu não estava tentando fugir nem nada...
+
+80
+00:07:38,560 --> 00:07:40,820
+Não me assuste assim...
+
+81
+00:07:54,300 --> 00:07:56,480
+Eu não aguento isso, as minhas pernas estão desistindo.
+
+82
+00:07:56,480 --> 00:07:57,250
+Professor.
+
+83
+00:07:57,550 --> 00:07:59,880
+Vocês voltaram. Deve estar quente lá fora.
+
+84
+00:07:59,880 --> 00:08:02,480
+Eu acabei de me lavar também.
+
+85
+00:08:02,480 --> 00:08:04,550
+Acho que eu também vou lavar o rosto.
+
+86
+00:08:04,790 --> 00:08:09,860
+As barreiras do lado oeste e do portão da frente estão normais.
+
+87
+00:08:09,860 --> 00:08:11,520
+Bom trabalho.
+
+88
+00:08:12,520 --> 00:08:15,310
+O quê? Espera aí!
+
+89
+00:08:18,940 --> 00:08:20,520
+Konekomaru, qual o problema?
+
+90
+00:08:20,780 --> 00:08:24,570
+Eu não entendo! O Okumura, de repente...
+
+91
+00:08:26,450 --> 00:08:29,320
+Afaste-se dele, Suguro! Ele é perigoso!
+
+92
+00:08:30,010 --> 00:08:33,040
+Seu maldito, quem você está chamando de perigoso?
+
+93
+00:08:35,310 --> 00:08:38,330
+Droga, não me faça de idiota!
+
+94
+00:08:40,410 --> 00:08:43,060
+O que você está fazendo, Okumura?
+
+95
+00:08:43,060 --> 00:08:45,770
+Você não está vendo? Eu vou acabar com ele!
+
+96
+00:08:45,770 --> 00:08:47,880
+Rin! Afaste-se do Suguro!
+
+97
+00:08:48,220 --> 00:08:51,720
+Para onde você está apontando essa arma? É nele que você deveria atirar!
+
+98
+00:08:53,540 --> 00:08:54,430
+Como?
+
+99
+00:08:54,430 --> 00:08:57,550
+Acalmem-se...
+
+100
+00:08:57,550 --> 00:08:59,730
+Baixem suas armas.
+
+101
+00:09:10,450 --> 00:09:12,160
+Parado aí!
+
+102
+00:09:12,160 --> 00:09:12,830
+Rin!
+
+103
+00:09:16,750 --> 00:09:19,580
+Você está bem?
+
+104
+00:09:21,240 --> 00:09:22,750
+O que você está fazendo, Rin?
+
+105
+00:09:22,750 --> 00:09:25,760
+Você se esqueceu? Se perder o controle, você...
+
+106
+00:09:28,260 --> 00:09:30,430
+Eu já falei, Okumura.
+
+107
+00:09:30,430 --> 00:09:33,970
+Se você ferir qualquer um ao meu redor, eu vou te matar, sem piedade.
+
+108
+00:09:34,480 --> 00:09:37,600
+Para onde você está olhando? O demônio...
+
+109
+00:09:37,600 --> 00:09:41,050
+Koneko! Ei, aguente firme!
+
+110
+00:09:41,050 --> 00:09:42,940
+Bon, o que vamos fazer? O Koneko...
+
+111
+00:09:46,810 --> 00:09:50,780
+Não se preocupem, ele só perdeu a consciência.
+
+112
+00:09:53,180 --> 00:09:56,240
+Essas chamas podem matar as pessoas.
+
+113
+00:09:57,770 --> 00:09:59,960
+Por que você não entende isso?
+
+114
+00:10:01,040 --> 00:10:02,420
+Desapareça.
+
+115
+00:10:20,910 --> 00:10:22,140
+Nós encontramos uma coisa.
+
+116
+00:10:23,480 --> 00:10:25,010
+É isso?
+
+117
+00:10:25,010 --> 00:10:27,130
+O Gale é um demônio perigoso.
+
+118
+00:10:27,130 --> 00:10:28,750
+Tome cuidado, por favor.
+
+119
+00:10:28,750 --> 00:10:30,490
+Eu sei disso.
+
+120
+00:10:36,690 --> 00:10:38,040
+O que é isso?
+
+121
+00:10:43,320 --> 00:10:46,020
+Isso não parece bom, professora Kirigakure!
+
+122
+00:10:46,020 --> 00:10:49,380
+Esse deve ser algum tipo de portal, aberto por uma chave!
+
+123
+00:10:49,380 --> 00:10:53,530
+Se essa porta se fechar, nós não poderemos voltar.
+
+124
+00:10:53,530 --> 00:10:57,170
+Sim, você tem razão. Fique aqui e a mantenha aberta.
+
+125
+00:10:57,170 --> 00:11:03,950
+Como?! Espere, srta. Kirigakure! Volte!
+
+126
+00:11:12,220 --> 00:11:15,860
+Droga, que frio.
+
+127
+00:11:28,850 --> 00:11:30,170
+Que lugar é esse?
+
+128
+00:11:47,860 --> 00:11:49,300
+Finalmente acordou?
+
+129
+00:11:49,550 --> 00:11:51,130
+Bon...
+
+130
+00:11:51,130 --> 00:11:52,720
+Você devia ficar na cama.
+
+131
+00:11:59,770 --> 00:12:00,980
+Onde eu estou?
+
+132
+00:12:01,240 --> 00:12:03,880
+No hospital.
+
+133
+00:12:04,440 --> 00:12:07,970
+Eu não te vejo desde a manhã.
+
+134
+00:12:07,970 --> 00:12:10,450
+Onde você estava, o que estava fazendo?
+
+135
+00:12:14,330 --> 00:12:16,120
+Eu não me lembro...
+
+136
+00:12:17,070 --> 00:12:22,470
+É uma pena. De toda forma, é melhor você descansar, temos muito trabalho a fazer amanhã.
+
+137
+00:12:22,470 --> 00:12:23,920
+Bon.
+
+138
+00:12:23,920 --> 00:12:24,800
+O que foi?
+
+139
+00:12:25,750 --> 00:12:31,530
+O que você pensa sobre o Okumura?
+
+140
+00:12:31,530 --> 00:12:34,640
+Eu não sei... ele é um idiota!
+
+141
+00:12:34,640 --> 00:12:39,350
+Ele sempre faz essas loucuras, e ainda quer que a gente confie nele!
+
+142
+00:12:39,350 --> 00:12:45,300
+Para ganhar a confiança das pessoas você precisa de... você sabe,<i> aquilo</i>!
+
+143
+00:12:45,300 --> 00:12:47,610
+E ele não tem nada.
+
+144
+00:12:48,870 --> 00:12:54,580
+Mas eu não aguento. Ele me assusta.
+
+145
+00:12:54,960 --> 00:12:57,680
+Ele é só um idiota.
+
+146
+00:12:57,680 --> 00:13:01,220
+É claro que tem um poder assustador,
+
+147
+00:13:01,220 --> 00:13:04,300
+mas não tem nada de especial por dentro.
+
+148
+00:13:04,710 --> 00:13:07,050
+Você não deve ter medo dele.
+
+149
+00:13:08,040 --> 00:13:10,930
+Ou você está pensando em desistir?
+
+150
+00:13:11,890 --> 00:13:15,430
+Quantas vezes eles te disseram aquilo no templo?
+
+151
+00:13:15,430 --> 00:13:22,350
+A sua mãe morreu te protegendo, mesmo enquanto as chamas azuis a queimavam!
+
+152
+00:13:22,350 --> 00:13:25,900
+Você deveria ao menos honrar sua memória!
+
+153
+00:13:25,900 --> 00:13:28,400
+Mesmo assim... eu...
+
+154
+00:13:30,890 --> 00:13:35,910
+Eu estou indo. Ainda tenho metade das barreiras para checar.
+
+155
+00:13:36,400 --> 00:13:39,230
+Bon, o que houve com as suas costas?
+
+156
+00:13:39,230 --> 00:13:40,890
+Isso?
+
+157
+00:13:43,000 --> 00:13:44,440
+Naquela hora...
+
+158
+00:13:44,440 --> 00:13:45,950
+Não é nada demais.
+
+159
+00:13:45,950 --> 00:13:49,470
+Eu só preciso comprar uma camisa nova.
+
+160
+00:13:50,400 --> 00:13:55,010
+<i>Viu só? Isso aconteceu por que você não me deu ouvidos.</i>
+
+161
+00:13:55,760 --> 00:13:57,960
+<i>Ele é perigoso.</i>
+
+162
+00:13:57,960 --> 00:14:01,350
+<i>Ele vai fazer a tragédia da Noite Azul se repetir.</i>
+
+163
+00:14:01,620 --> 00:14:03,140
+Mas...
+
+164
+00:14:03,140 --> 00:14:04,850
+<i>Você não quer perdê-los, quer?</i>
+
+165
+00:14:04,850 --> 00:14:07,110
+<i>Seus queridos amiguinhos.</i>
+
+166
+00:14:07,340 --> 00:14:09,770
+<i>Aceite-me.</i>
+
+167
+00:14:09,770 --> 00:14:15,020
+<i>Nós vamos derrotar o filho de Satã!</i>
+
+168
+00:14:17,760 --> 00:14:18,490
+Mas o quê...
+
+169
+00:14:25,260 --> 00:14:28,000
+Konekomaru!
+
+170
+00:14:30,870 --> 00:14:34,180
+Eu fui até à loja e comprei alguns mangás.
+
+171
+00:14:34,180 --> 00:14:38,580
+E também trouxe alguns bem excitantes para o Koneko não se sentir entediado.
+
+172
+00:14:38,580 --> 00:14:40,600
+Nós não temos tempo para isso!
+
+173
+00:14:40,600 --> 00:14:43,310
+O demônio pegou o Konekomaru!
+
+174
+00:14:43,310 --> 00:14:44,150
+Como?
+
+175
+00:14:44,150 --> 00:14:45,420
+Chame o professor!
+
+176
+00:14:45,420 --> 00:14:47,110
+Eu vou atrás deles!
+
+177
+00:14:47,110 --> 00:14:49,150
+Ei, espera... Bon!
+
+178
+00:14:53,330 --> 00:14:56,530
+<i>Essas chamas podem matar as pessoas.</i>
+
+179
+00:14:56,760 --> 00:14:59,330
+<i>Por que você não entende isso?</i>
+
+180
+00:15:00,090 --> 00:15:01,810
+Eu fiz de novo...
+
+181
+00:15:02,650 --> 00:15:04,870
+Por que eu sempre...
+
+182
+00:15:12,120 --> 00:15:12,970
+Você!
+
+183
+00:15:18,600 --> 00:15:21,280
+Não está aqui. Para onde ele foi?
+
+184
+00:15:23,640 --> 00:15:25,740
+É o Okumura.
+
+185
+00:15:27,060 --> 00:15:28,520
+O quê? Miwa?
+
+186
+00:15:29,480 --> 00:15:30,690
+Rin!
+
+187
+00:15:33,110 --> 00:15:34,610
+<i>Morra! Filho de Satã!</i>
+
+188
+00:15:35,810 --> 00:15:36,740
+Konekomaru!
+
+189
+00:15:36,740 --> 00:15:38,160
+Pare com isso, Miwa!
+
+190
+00:15:38,160 --> 00:15:38,910
+Cale a boca!
+
+191
+00:15:39,690 --> 00:15:42,330
+O que é isso? Uma barreira de vento?
+
+192
+00:15:42,330 --> 00:15:46,110
+<i>Isso mesmo, é o meu novo poder.</i>
+
+193
+00:15:46,110 --> 00:15:50,790
+<i>Eu renasci para matar o filho de Satã!</i>
+
+194
+00:15:58,290 --> 00:16:01,010
+Esse é o poder daquele demônio?!
+
+195
+00:16:01,880 --> 00:16:06,040
+<i>Seu demônio sujo! Eu vou arrancar a sua cabeça!</i>
+
+196
+00:16:06,040 --> 00:16:07,810
+Pare com isso, seu idiota!
+
+197
+00:16:08,270 --> 00:16:13,650
+Olhe para si próprio! Você está se tornando um demônio!
+
+198
+00:16:13,650 --> 00:16:17,700
+<i>Cale a boca! Eu estou lutando para proteger a todos!</i>
+
+199
+00:16:17,700 --> 00:16:22,450
+Ninguém te pediu isso! Acorde, Konekomaru!
+
+200
+00:16:23,450 --> 00:16:24,300
+Bon...
+
+201
+00:16:24,300 --> 00:16:29,330
+<i>Não se deixe enganar! Ele só está com inveja do seu novo poder!</i>
+
+202
+00:16:29,330 --> 00:16:33,000
+<i>Mate-o! Mate o filho de Satã!</i>
+
+203
+00:16:34,570 --> 00:16:41,350
+Cala essa boca! Eu não sou o filho de Satã por querer!
+
+204
+00:16:44,130 --> 00:16:46,310
+Konekomaru...
+
+205
+00:16:46,710 --> 00:16:51,210
+Se você tem medo de mim, eu não posso fazer nada.
+
+206
+00:16:51,210 --> 00:16:55,790
+Mas por que você está se entregando para um cara como esse?
+
+207
+00:16:55,790 --> 00:17:03,490
+Você deveria pedir ajuda ao Suguro, ao Shima, aos seus outros amigos!
+
+208
+00:17:07,770 --> 00:17:10,560
+O que eu estou fazendo?
+
+209
+00:17:11,130 --> 00:17:17,210
+Matá-lo não irá trazer os meus pais de volta...
+
+210
+00:17:17,210 --> 00:17:20,380
+Eu... Eu...
+
+211
+00:17:23,100 --> 00:17:24,010
+<i>Maldito seja!</i>
+
+212
+00:17:25,890 --> 00:17:26,530
+Konekomaru!
+
+213
+00:17:26,530 --> 00:17:27,350
+Koneko!
+
+214
+00:17:27,350 --> 00:17:30,770
+<i>Eu não vou deixá-lo ir! Você é meu!</i>
+
+215
+00:17:35,980 --> 00:17:38,320
+O que você está fazendo, Rin?
+
+216
+00:17:38,320 --> 00:17:40,990
+Não é óbvio? Eu vou salvá-lo!
+
+217
+00:17:41,990 --> 00:17:43,620
+Venha, Konekomaru!
+
+218
+00:17:44,870 --> 00:17:47,240
+Confie em mim! Pule!
+
+219
+00:18:00,300 --> 00:18:02,050
+Koneko!
+
+220
+00:18:02,050 --> 00:18:04,480
+Você está bem, Konekomaru?
+
+221
+00:18:04,840 --> 00:18:06,940
+Bon... Shima...
+
+222
+00:18:09,760 --> 00:18:11,100
+Rin!
+
+223
+00:18:11,660 --> 00:18:15,050
+Não é nada.
+
+224
+00:18:16,680 --> 00:18:18,280
+Okumura...
+
+225
+00:18:23,860 --> 00:18:25,570
+Eu sinto muito...
+
+226
+00:18:26,540 --> 00:18:28,740
+Eu sinto muito mesmo.
+
+227
+00:18:33,960 --> 00:18:39,130
+Então, no fim, o Okumura salvou o Miwa?
+
+228
+00:18:39,130 --> 00:18:43,130
+Sim. O Suguro e o Shima tiveram ferimentos leves.
+
+229
+00:18:43,130 --> 00:18:45,270
+Magnífico.
+
+230
+00:18:45,270 --> 00:18:48,890
+Porém, o problema está nas barreiras.
+
+231
+00:18:48,890 --> 00:18:54,750
+Alguém, ou alguma coisa, se infiltrou na Academia usando chaves.
+
+232
+00:18:54,750 --> 00:18:57,630
+Esse é um assunto importante.
+
+233
+00:18:57,630 --> 00:19:01,650
+Apenas um pequeno grupo de humanos tem a permissão para usar minhas chaves.
+
+234
+00:19:01,650 --> 00:19:05,520
+Eu investiguei o outro lado do portão
+
+235
+00:19:05,520 --> 00:19:09,010
+e encontrei um laboratório queimado no meio de uma floresta.
+
+236
+00:19:09,010 --> 00:19:10,120
+Um laboratório?
+
+237
+00:19:10,120 --> 00:19:14,370
+Sim, e não era um laboratório qualquer.
+
+238
+00:19:14,800 --> 00:19:21,200
+Era um laboratório de pesquisa de vida artificial, que foi banida há 300 anos pelo Vaticano.
+
+239
+00:19:21,200 --> 00:19:28,890
+Fascinante. Nós precisamos investigá-lo, agora mesmo.
+
+240
+00:19:30,260 --> 00:19:33,380
+Koneko! A gente veio te ver!
+
+241
+00:19:33,380 --> 00:19:35,730
+E hoje nós trouxemos o esquadrão das gatinhas!
+
+242
+00:19:36,450 --> 00:19:37,240
+
+
+243
+00:19:37,240 --> 00:19:39,690
+O que é isso? Ele não está aqui.
+
+244
+00:19:39,690 --> 00:19:42,130
+Para onde ele foi?
+
+245
+00:19:43,650 --> 00:19:45,980
+Não me diga que ele...
+
+246
+00:19:58,370 --> 00:20:00,170
+Ei, quem é você? Por quê...
+
+247
+00:20:00,730 --> 00:20:02,030
+Ei.
+
+248
+00:20:02,030 --> 00:20:03,750
+Okumura...
+
+249
+00:20:03,750 --> 00:20:06,680
+Para onde você vai levar essas coisas?
+
+250
+00:20:08,520 --> 00:20:12,390
+Lugar algum. Não é assunto seu,
+
+251
+00:20:13,640 --> 00:20:20,280
+Os sacerdotes me criaram como parte da família.
+
+252
+00:20:20,280 --> 00:20:26,650
+Eu vim para a Academia com o Bon pensando em retribuir pelo menos uma parte da sua bondade.
+
+253
+00:20:27,200 --> 00:20:32,390
+Mas eu sou só um medroso inútil.
+
+254
+00:20:32,390 --> 00:20:34,350
+Então eu resolvi desistir.
+
+255
+00:20:34,350 --> 00:20:37,660
+Eu só vou causar problemas, se continuar aqui.
+
+256
+00:20:38,910 --> 00:20:42,160
+O que você disse?
+
+257
+00:20:42,670 --> 00:20:44,490
+Que eu só vou causar...
+
+258
+00:20:44,490 --> 00:20:46,270
+Isso não! Antes disso!
+
+259
+00:20:46,270 --> 00:20:47,000
+Que eu sou um medroso...
+
+260
+00:20:47,000 --> 00:20:48,590
+Antes disso!
+
+261
+00:20:48,590 --> 00:20:49,780
+O quê?
+
+262
+00:20:49,780 --> 00:20:51,640
+Você disse que isso não é assunto meu?
+
+263
+00:20:51,640 --> 00:20:54,550
+Isso?
+
+264
+00:20:54,550 --> 00:20:56,770
+Não me diga isso.
+
+265
+00:20:57,110 --> 00:21:01,730
+Eu te considero um amigo, sabia?
+
+266
+00:21:02,310 --> 00:21:03,680
+Okumura...
+
+267
+00:21:03,680 --> 00:21:06,830
+Não vai ser nada legal se um amigo for embora assim.
+
+268
+00:21:08,810 --> 00:21:09,750
+Você está zombando.
+
+269
+00:21:09,750 --> 00:21:10,450
+Como?
+
+270
+00:21:10,450 --> 00:21:12,830
+Isso é legal demais...
+
+271
+00:21:12,830 --> 00:21:17,380
+Eu tentei te matar!
+
+272
+00:21:17,380 --> 00:21:21,760
+Se um demônio chegar até mim de novo, eu posso fazer a mesma coisa!
+
+273
+00:21:21,760 --> 00:21:25,730
+E você continua me chamando de amigo?
+
+274
+00:21:25,730 --> 00:21:29,680
+Você confiou em mim.
+
+275
+00:21:29,680 --> 00:21:33,560
+Então eu também vou confiar em você.
+
+276
+00:21:34,550 --> 00:21:36,640
+Amigos são para isso, certo?
+
+277
+00:21:40,350 --> 00:21:46,130
+<i>Para ganhar a confiança das pessoas você precisa de... Você sabe,</i> aquilo!
+
+278
+00:21:46,130 --> 00:21:48,240
+<i>Bem, ele não tem nada.</i>
+
+279
+00:21:48,240 --> 00:21:50,760
+É como o Bon disse.
+
+280
+00:21:50,760 --> 00:21:54,290
+Você não tem nada mesmo.
+
+281
+00:21:54,290 --> 00:21:56,690
+Ei, isso é grosseria!
+
+282
+00:21:56,690 --> 00:21:58,200
+Eu tenho ao menos...
+
+283
+00:21:58,200 --> 00:21:59,620
+Dinheiro... não.
+
+284
+00:21:59,620 --> 00:22:01,200
+Talento... não.
+
+285
+00:22:01,200 --> 00:22:02,460
+Konekomaru!
+
+286
+00:22:02,460 --> 00:22:04,640
+Onde você estava?
+
+287
+00:22:04,640 --> 00:22:06,420
+A gente estava te procurando!
+
+288
+00:22:06,420 --> 00:22:08,110
+Bon! Pessoal...
+
+289
+00:22:08,110 --> 00:22:11,760
+Não se intrometam na melhor parte!
+
+290
+00:22:11,760 --> 00:22:13,670
+Por que você está com raiva?
+
+291
+00:22:13,670 --> 00:22:15,830
+Deixe ele em paz, a idiotice é contagiosa.
+
+292
+00:22:15,830 --> 00:22:16,970
+Quem você está chamando de idiota?
+
+293
+00:22:17,200 --> 00:22:22,000
+O Koneko acabou de se recuperar, por que você não carrega as coisas dele?
+
+294
+00:22:22,000 --> 00:22:23,290
+Por que eu?
+
+295
+00:22:23,290 --> 00:22:24,980
+Vocês são amigos, certo?
+
+296
+00:22:24,980 --> 00:22:26,980
+Não é isso que os amigos fazem?
+
+297
+00:22:26,980 --> 00:22:29,900
+Bem, então eu acho que não tenho escolha...
+
+298
+00:24:00,760 --> 00:24:03,280
+Me diga o meu futuro também!
+
+299
+00:24:03,280 --> 00:24:04,920
+Não, eu não posso fazer isso com homens.
+
+300
+00:24:04,920 --> 00:24:06,240
+Por quê?
+
+301
+00:24:06,240 --> 00:24:09,450
+Eu só sei dizer o futuro das garotas!
+
+302
+00:24:10,850 --> 00:24:13,490
+Obrigada, Shima!
+
